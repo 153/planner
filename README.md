@@ -21,4 +21,9 @@ with the ISO week number included for convenience's sake:
 ![](week.png)
 
 To prevent duplication of weeks, a week "belongs" to whatever month
-that week's Thursday falls upon. Edge cases are caught. 
+that week's Thursday falls upon. Edge cases are caught.
+
+2026 calendar:
+
+* [html](2026.html)
+* [pdf](2026.html.pdf)
