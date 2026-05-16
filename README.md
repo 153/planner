@@ -8,7 +8,7 @@ Print the file using your favorite web browser
 The first page is blank to ensure proper printing, followed by a 2-page
 spread of all months in the year:
 
-![](year.png]
+![](year.png)
 
 Every month begins with a 2-page spread overview of the month:
 
